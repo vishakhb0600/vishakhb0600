@@ -1,7 +1,7 @@
-💫 Hi 👋, I'm Vishak
-A passionate AI Engineer || DevOps Engineer || Akhil from India
+💫 Hi 👋, I'm Vishakh B
+A passionate AI Engineer || DevOps Engineer || Vishakh from India
 
-Email Me 👉 ✉️ cakhileshkumar123@gmail.com For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ vishakhbalasubramanya01@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 🔭 I’m currently working on: Building LLMs 
 
@@ -13,13 +13,12 @@ Email Me 👉 ✉️ cakhileshkumar123@gmail.com For Collaboration/Project or An
 
 💬 Ask me about: Collaboration, Tech Support
 
-📫 How to reach me: cakhileshkumar123@gmail.com
-
+📫 How to reach me:  vishakhbalasubramanya01@gmail.com
 ⚡ Fun fact: I Love Tech and Tech Love Me
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsakhil_018) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Akhilesh Kumar C](https://www.linkedin.com/in/akhilesh-kumar-c-074407298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itsakhil_018) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cakhileshkumar123@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vis_hu_0600?igsh=cW40eXI5ejF4OGZl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vishakh-b-941aa2329](https://www.linkedin.com/in/vishakh-b-941aa2329?utm_source=share_via&utm_content=profile&utm_medium=member_android)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VishakhB1112006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishakhbalasubramanya01@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
