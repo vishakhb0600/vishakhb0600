@@ -20,11 +20,32 @@ Email Me 👉 ✉️ vishakhbalasubramanya01@gmail.com For Collaboration/Project
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vis_hu_0600?igsh=cW40eXI5ejF4OGZl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vishakh-b-941aa2329](https://www.linkedin.com/in/vishakh-b-941aa2329?utm_source=share_via&utm_content=profile&utm_medium=member_android)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VishakhB1112006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishakhbalasubramanya01@gmail.com) 
 
-## 🚀 My Arcade Game
 
-**GALAXY HUNTER** — Defend the galaxy!
+## 🖥️ SYSTEM TERMINAL
 
-[🎮 PLAY NOW](YOUR_GITHUB_PAGES_LINK)
+![Terminal Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF41&background=00000000&center=false&vCenter=true&width=600&lines=%3E+Initializing+Vishakh's+System...;%3E+Loading+Developer+Profile...;%3E+Computer+Science+Student;%3E+Building+Something+Awesome...;%3E+System+Ready+%E2%9C%93)
+
+```bash
+root@vishakh:~$ whoami
+
+Vishakh B
+Computer Science Engineer
+
+root@vishakh:~$ skills --list
+
+Java | Python | HTML | CSS | JavaScript
+Git | GitHub | SQL
+
+root@vishakh:~$ status
+
+[+] Learning
+[+] Building Projects
+[+] Exploring Technology
+
+root@vishakh:~$ echo "Let's build the future!"
+
+SYSTEM ONLINE _
+```
 
 
 # 💻 Tech Stack:
