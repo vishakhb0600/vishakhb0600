@@ -20,11 +20,11 @@ Email Me 👉 ✉️ vishakhbalasubramanya01@gmail.com For Collaboration/Project
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vis_hu_0600?igsh=cW40eXI5ejF4OGZl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vishakh-b-941aa2329](https://www.linkedin.com/in/vishakh-b-941aa2329?utm_source=share_via&utm_content=profile&utm_medium=member_android)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VishakhB1112006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishakhbalasubramanya01@gmail.com) 
 
-<!-- Snake Game Repo View -->
+## 🚀 My Arcade Game
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+**GALAXY HUNTER** — Defend the galaxy!
+
+[🎮 PLAY NOW](YOUR_GITHUB_PAGES_LINK)
 
 
 # 💻 Tech Stack:
