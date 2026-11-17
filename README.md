@@ -1,9 +1,3 @@
-
-<p align="center">
-  <img src="matrix-digital-rain.gif"
-       width="100%"
-       alt="Matrix Digital Rain">
-</p>
 💫 Hi 👋, I'm Vishakh B
 A passionate AI Engineer || DevOps Engineer || Vishakh from India
 
@@ -31,6 +25,11 @@ Email Me 👉 ✉️ vishakhbalasubramanya01@gmail.com For Collaboration/Project
 
 ![Terminal Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF41&background=00000000&center=false&vCenter=true&width=600&lines=%3E+Initializing+Vishakh's+System...;%3E+Loading+Developer+Profile...;%3E+Computer+Science+Student;%3E+Building+Something+Awesome...;%3E+System+Ready+%E2%9C%93)
 
+<p align="center">
+  <img src="matrix-digital-rain.gif"
+       width="100%"
+       alt="Matrix Digital Rain">
+</p>
 ```bash
 root@vishakhb0600:~$ whoami
 
