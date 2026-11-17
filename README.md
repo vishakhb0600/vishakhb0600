@@ -31,12 +31,12 @@ Email Me 👉 ✉️ vishakhbalasubramanya01@gmail.com For Collaboration/Project
        alt="Matrix Digital Rain">
 </p>
 ```bash
-root@vishakhb0600:~$ whoami
+root@vishakh:~$ whoami
 
 Vishakh B
 Computer Science Engineer
 
-root@vishakhb0600:~$ skills --list
+root@vishakh:~$ skills --list
 
 Java | Python | HTML | CSS | JavaScript
 Git | GitHub | SQL
@@ -47,10 +47,9 @@ root@vishakh:~$ status
 [+] Building Projects
 [+] Exploring Technology
 
-root@vishakhb0600:~$ echo "Let's build the future!"
+root@vishakh:~$ echo "Let's build the future!"
 
 SYSTEM ONLINE _
-```
 
 
 # 💻 Tech Stack:
