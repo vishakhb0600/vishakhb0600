@@ -49,7 +49,7 @@ root@vishakh:~$ status
 
 root@vishakh:~$ echo "Let's build the future!"
 
-SYSTEM ONLINE _
+SYSTEM ONLINE _```
 
 
 # 💻 Tech Stack:
