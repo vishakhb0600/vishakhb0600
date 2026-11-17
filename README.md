@@ -26,12 +26,12 @@ Email Me 👉 ✉️ vishakhbalasubramanya01@gmail.com For Collaboration/Project
 ![Terminal Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF41&background=00000000&center=false&vCenter=true&width=600&lines=%3E+Initializing+Vishakh's+System...;%3E+Loading+Developer+Profile...;%3E+Computer+Science+Student;%3E+Building+Something+Awesome...;%3E+System+Ready+%E2%9C%93)
 
 ```bash
-root@vishakh:~$ whoami
+root@vishakhb0600:~$ whoami
 
 Vishakh B
 Computer Science Engineer
 
-root@vishakh:~$ skills --list
+root@vishakhb0600:~$ skills --list
 
 Java | Python | HTML | CSS | JavaScript
 Git | GitHub | SQL
@@ -42,7 +42,7 @@ root@vishakh:~$ status
 [+] Building Projects
 [+] Exploring Technology
 
-root@vishakh:~$ echo "Let's build the future!"
+root@vishakhb0600:~$ echo "Let's build the future!"
 
 SYSTEM ONLINE _
 ```
