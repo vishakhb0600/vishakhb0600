@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="matrix-digital-rain.gif"
+       width="100%"
+       alt="Matrix Digital Rain">
+</p>
 💫 Hi 👋, I'm Vishakh B
 A passionate AI Engineer || DevOps Engineer || Vishakh from India
 
