@@ -61,26 +61,21 @@ Email Me 👉 ✉️ vishakhbalasubramanya01@gmail.com For Collaboration/Project
 ![Operating Systems](https://img.shields.io/badge/Operating_Systems-0078D6?style=for-the-badge&logo=linux&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Akhil121212&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Akhil121212&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil121212&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=vishakhb0600&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vishakhb0600&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhb0600&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📈 Contribution Graph
-![Akhil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhil121212&theme=tokyo-night)
+![vishakh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishakhb0600&theme=tokyo-night)
 
 ## profile views
-![Profile Views](https://komarev.com/ghpvc/?username=Akhil121212&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=vishakhb0600&color=blue)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akhil121212&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vishakhb0600&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akhil121212&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Akhil121212&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
